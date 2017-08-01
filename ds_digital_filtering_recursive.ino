@@ -9,6 +9,7 @@
 // 9/26 why does output have repeating discontinuity? sample length affects it
 // added BPF from SSmith
 // TTD: add a 3 pt median filter, get the FIR filter to work
+// median filter made; need to add to this
 
 #define CONSOLE  Serial       // Debug console (Monitor)
 #define P     CONSOLE.print        // print shortcut
